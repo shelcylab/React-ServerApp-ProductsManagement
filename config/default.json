@@ -1,0 +1,6 @@
+{
+      
+    "mongoDBConnection" : "mongodb+srv://Shelcy:8M4W4uNu3pl4VvPm@cluster1.wsscf.mongodb.net/productsApp?retryWrites=true&w=majority",
+    "jwtsecret": "secret"
+    
+}
